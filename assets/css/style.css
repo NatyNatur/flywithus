@@ -1,0 +1,39 @@
+body {
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+.tag {
+	width: 200px;
+	margin: auto;
+	display: inline-block;
+}
+
+.first-class {
+	background: cadetblue;
+}
+
+.economic-class {
+	background: lightsalmon;
+}
+
+.seats {
+	display: inline-block;
+	width: 9%;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.busy {
+	min-width: 120px;
+	min-height: 190px;
+}
+
+#btn {
+	margin: 10px 0px;
+}
+
+#tickets {
+	display: inline-flex;
+}
